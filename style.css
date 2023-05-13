@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(12, 12, 12, 0.7);
+}
+header{
+    background-color:rgb(54, 54, 54);
+    display: flex;
+    font-family: Tele;
+    align-items: center;
+    padding: 15px 50px;
+}
+header a{
+    text-decoration: none;
+    color: #DEDEDE;
+    margin:0 10px;
+}
+article a{
+    text-decoration: none;
+    color: #DEDEDE;
+    margin:0 10px;
+}
+h1{
+    color: #DEDEDE;
+    margin:0 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 121px;
+    display: flex;
+    justify-content: center;
+}
